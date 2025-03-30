@@ -34,8 +34,3 @@ Reflecting on "what if" scenarios, connecting dots between seemingly unrelated i
 [Connect with me →](https://linkedin.com/in/yourLinkedInUsername)
 
 </div>
-
-<!---
-nurpratapkarki/nurpratapkarki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
