@@ -1,4 +1,4 @@
-# Hi, I'm Nur Pratap! 👋
+# Hello, World!, I'm Nur Pratap! 👋
 
 Welcome to my GitHub profile! I'm a full-stack software engineer with a passion for building cool stuff. I thrive on learning new technologies, solving complex problems, and collaborating with others to create impactful solutions. I also love working on personal projects, exploring ideas, and diving deep into coding challenges.
 
