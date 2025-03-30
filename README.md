@@ -20,7 +20,7 @@
 
   
 <div align="center">
-  <a href="https://github.com/yourGitHubUsername">
+  <a href="https://github.com/nurpratapkarki">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourGitHubUsername&theme=vue-dark&hide_border=true" />
   </a>
 </div>
@@ -28,6 +28,6 @@
 <div align="center">
 
 **Let's build something amazing together.**  
-[Connect with me →](https://linkedin.com/in/yourLinkedInUsername)
+
 
 </div>
