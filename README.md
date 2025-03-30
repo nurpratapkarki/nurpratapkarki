@@ -4,17 +4,6 @@
 
 ## ⚡ Tech Artisan | Code Sculptor | Digital Nomad
 
-```javascript
-const nur = {
-  code: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
-  tools: ["React", "Next.js", "Node.js", "Express", "Django", "Docker"],
-  databases: ["PostgreSQL", "MongoDB", "Firebase"],
-  architecture: ["microservices", "event-driven", "design patterns"],
-  currentFocus: "Building secure, isolated systems in the insurance space",
-  lifePhilosophy: "There's no limit to what we can achieve when we collaborate"
-};
-```
-
 <div align="center">
   
 [![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
@@ -25,7 +14,7 @@ const nur = {
 
 </div>
 
-### 🧠 Currently exploring the intersection of:
+### 🧠 Currently exploring:
 - **Secure System Architecture**
 - **Mindful Development Practices**
 - **Insurance Tech Solutions**
@@ -45,14 +34,6 @@ Reflecting on "what if" scenarios, connecting dots between seemingly unrelated i
 [Connect with me →](https://linkedin.com/in/yourLinkedInUsername)
 
 </div>
----
-
-### 🤝 **Let's Connect!**:
-Feel free to reach out to me if you'd like to chat about technology, personal development, or anything in between. I'm always open to discussions and collaborations! 😊
-
----
-
-✨ **"There's no limit to what we can achieve when we collaborate and stay focused on the bigger picture!"** ✨
 
 <!---
 nurpratapkarki/nurpratapkarki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
