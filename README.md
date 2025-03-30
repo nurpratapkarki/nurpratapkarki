@@ -1,35 +1,50 @@
-# Hello, World! I'm Nur Pratap! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Nur+Pratap;Full-Stack+Engineer;Tech+Explorer;Mindful+Coder" alt="Typing SVG" />
+</div>
 
-Welcome to my GitHub profile! I'm a full-stack software engineer who loves turning ideas into reality. Whether it's building scalable applications or tackling complex challenges, I thrive in environments where I can learn, innovate, and grow. I also enjoy exploring personal projects, diving deep into the latest tech trends, and constantly improving myself both in coding and in life.
+## ⚡ Tech Artisan | Code Sculptor | Digital Nomad
 
----
+```javascript
+const nur = {
+  code: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
+  tools: ["React", "Next.js", "Node.js", "Express", "Django", "Docker"],
+  databases: ["PostgreSQL", "MongoDB", "Firebase"],
+  architecture: ["microservices", "event-driven", "design patterns"],
+  currentFocus: "Building secure, isolated systems in the insurance space",
+  lifePhilosophy: "There's no limit to what we can achieve when we collaborate"
+};
+```
 
-### 🚀 **What I'm working on**:
-- **Insurance Management System**: Building a secure and scalable insurance platform that ensures each company has isolated data access. Focused on implementing strict data segregation for various stakeholders like companies, employees, agents, and customers.
-- **Vehicle Management System**: Developed a backend solution for vehicle management, featuring seat management, customer tracking, bus tracking, and notifications.
-- **Personal Growth**: Constantly learning and evolving. Currently reading *Atomic Habits*, *How to Win Friends and Influence People*, and *The Art of Being Alone* to enhance both my technical and personal life.
+<div align="center">
+  
+[![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 
----
+</div>
 
-### 🔧 **Tech Stack**:
-- **Frontend**: React, Next.js, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js, Python, Django, TypeScript
-- **Database**: PostgreSQL, MongoDB, Firebase
-- **Dev Tools**: Git, Docker, AWS, REST APIs, GraphQL
-- **Operating System**: Kali Linux, Arch Linux
-- **Miscellaneous**: Always exploring new tools and technologies to stay on top of the ever-changing landscape of software development!
+### 🧠 Currently exploring the intersection of:
+- **Secure System Architecture**
+- **Mindful Development Practices**
+- **Insurance Tech Solutions**
 
----
+### 💭 When I'm not coding:
+Reflecting on "what if" scenarios, connecting dots between seemingly unrelated ideas, and training my mind through meditation.
 
-### 📚 **Currently Learning**:
-- **Insurance Industry & Brokerage Models**: Developing a deeper understanding of the insurance space to create impactful solutions.
-- **Advanced Meditation Techniques**: Exploring how mindfulness and meditation can fuel creativity and improve coding focus. 🧘‍♂️
+<div align="center">
+  <a href="https://github.com/yourGitHubUsername">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourGitHubUsername&theme=vue-dark&hide_border=true" />
+  </a>
+</div>
 
----
+<div align="center">
 
-### ⚡ **Fun Fact**:
-When I'm not coding, you'll find me reflecting on "what if" scenarios, imagining random events, or brainstorming stories that connect the dots in life. I believe in staying true to my goals, valuing collaboration, and not being afraid to dream big.
+**Let's build something amazing together.**  
+[Connect with me →](https://linkedin.com/in/yourLinkedInUsername)
 
+</div>
 ---
 
 ### 🤝 **Let's Connect!**:
