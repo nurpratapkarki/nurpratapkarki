@@ -16,12 +16,9 @@
 
 ### 🧠 Currently exploring:
 - **Secure System Architecture**
-- **Mindful Development Practices**
 - **Insurance Tech Solutions**
 
-### 💭 When I'm not coding:
-Reflecting on "what if" scenarios, connecting dots between seemingly unrelated ideas, and training my mind through meditation.
-
+  
 <div align="center">
   <a href="https://github.com/yourGitHubUsername">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourGitHubUsername&theme=vue-dark&hide_border=true" />
