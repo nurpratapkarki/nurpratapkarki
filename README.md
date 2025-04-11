@@ -19,7 +19,7 @@
 
   
 <div align="center">
-  <a href="https://github.com/nurpratapkarki">
+  <a href="https://www.github.com/nurpratapkarki">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourGitHubUsername&theme=vue-dark&hide_border=true" />
   </a>
 </div>
