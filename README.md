@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=600&lines=Hello+World%2C+I'm+Nur+Pratap;Full-Stack+Engineer;Tech+Explorer;Mindful+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=600&lines=Hello+World%2C+I'm+Nur+Pratap;Tech+Explorer;Mindful+Coder;Code+Tester" alt="Typing SVG" />
 </div>
 
 ## ⚡  Semi-Vibe coder | Code Reviewer | Code Tester
