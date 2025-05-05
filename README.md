@@ -17,15 +17,14 @@
 - **Secure System Architecture**
 - **Insurance Tech Solutions**
 
-  
+
 <div align="center">
-  <a href="https://www.github.com/nurpratapkarki">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourGitHubUsername&theme=vue-dark&hide_border=true" />
-  </a>
+
+|||
+|:-------------------------:|:-------------------------:|
+| [![Nur Pratap's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurpratapkarki&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/nurpratapkarki) | [![GitHub Streak](https://streak-stats.demolab.com?user=nurpratapkarki&theme=catppuccin-mocha)](https://git.io/streak-stats) |
+
 </div>
-
-<div align="center">
-
 **Let's build something amazing together.**  
 
 
