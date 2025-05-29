@@ -19,6 +19,11 @@
 
 
 <div align="center">
+<div align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nurpratapkarki&theme=react-dark&bg_color=20232a&hide_border=true" />
+  </a>
+</div>
 
 |||
 |:-------------------------:|:-------------------------:|
