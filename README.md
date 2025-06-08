@@ -1,10 +1,10 @@
 ```css
-┌[o0xz4ckx@git]-(~)
+┌[nurpratapkarki@git]-(~)
 └> loading........
 ```
 
  ```css
-  o0xz4ckx@GitHub
+  nurpratapkarki@GitHub
   ----------------------------------------------------
   Name: Nur Pratap Karki
   From: Nepal
